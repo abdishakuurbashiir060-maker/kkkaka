@@ -1,0 +1,38 @@
+header{
+    background-color: aqua;
+    text-align: center;
+    font-size: xx-large;
+    font-family: 'Courier New', Courier, monospace;
+}
+footer{
+    background-color: brown;
+    color: white;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 20px;
+}
+h1{
+    background-color: aqua;
+    color: white;
+}
+
+
+ol{
+    list-style-type: lower-alpha;
+    list-style-type: lower-roman;
+    list-style-type: lower-roman;
+    list-style-position: inside;
+    list-style-image: url(tag.jpeg);
+}
+h3{
+    letter-spacing: 10px;
+    font-weight: bold;
+    font-style: italic;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+p{
+    line-height: 30px;
+    text-indent: 20px;
+    text-decoration: overline;
+}
